@@ -12,14 +12,13 @@ A mobile app to monitor real-time air quality and give users health advice based
 
 ## ⚙️ Built With
 - No-code platform: [Thunkable](https://thunkable.com) 
-- Open data API for air quality: [Openweathermap] (https://openweathermap.org),
+- Open data API for air quality: [Openweathermap] (https://openweathermap.org), [Weatherbit] (https://www.weatherbit.io)
 - Visual design with built-in Thunkable UI components  
 
 ## 📷 Screenshots
-![Map view](![IMG_1592](https://github.com/user-attachments/assets/fe81ef7d-b856-4769-bac9-fbe41de5cf6b)
-)
-![Real time AQI](![IMG_1587](https://github.com/user-attachments/assets/0ac99a6e-ffea-4bca-b1e5-4667779d28d8)
-)
+![IMG_1592](https://github.com/user-attachments/assets/44ddf238-e6ab-4cc1-b9a3-0d4fdbe09352)
+![IMG_1587](https://github.com/user-attachments/assets/ad72ec2f-b638-43f1-aef8-87b6de5136ed)
+
 
 ## 🔗 Try the App
 [Link to the app](https://thunkable.site/w/lS94ErY_8Kfw60wn72Kwb)  
