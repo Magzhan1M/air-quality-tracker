@@ -16,8 +16,7 @@ A mobile app to monitor real-time air quality and give users health advice based
 - Visual design with built-in Thunkable UI components  
 
 ## 📷 Screenshots
-![IMG_1592](https://github.com/user-attachments/assets/44ddf238-e6ab-4cc1-b9a3-0d4fdbe09352)
-![IMG_1587](https://github.com/user-attachments/assets/ad72ec2f-b638-43f1-aef8-87b6de5136ed)
+![IMG_1592](https://github.com/user-attachments/assets/44ddf238-e6ab-4cc1-b9a3-0d4fdbe09352) ![IMG_1587](https://github.com/user-attachments/assets/ad72ec2f-b638-43f1-aef8-87b6de5136ed)
 
 
 ## 🔗 Try the App
